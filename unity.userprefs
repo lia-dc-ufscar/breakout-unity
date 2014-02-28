@@ -1,0 +1,23 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Config\Config.cs">
+    <Files>
+      <File FileName="Assets\Objects\Paddle\Paddle.cs" Line="15" Column="31" />
+      <File FileName="Assets\Objects\BrickFactory\BrickFactory.cs" Line="4" Column="44" />
+      <File FileName="Assets\Objects\Ball\Ball.cs" Line="12" Column="37" />
+      <File FileName="Assets\Objects\Brick\Brick.cs" Line="7" Column="83" />
+      <File FileName="Assets\Objects\BottomTrigger.cs" Line="10" Column="1" />
+      <File FileName="Assets\Objects\Controllers\GameController.cs" Line="11" Column="36" />
+      <File FileName="Assets\Scripts\FillUpButton.cs" Line="34" Column="44" />
+      <File FileName="Assets\Editor\CreatePlane.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\OpenSceneFillUpButton.cs" Line="10" Column="3" />
+      <File FileName="Assets\Scripts\FillUpTimer.cs" Line="25" Column="13" />
+      <File FileName="Assets\Config\Config.cs" Line="9" Column="36" />
+      <File FileName="Assets\Config\FSM.cs" Line="26" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
